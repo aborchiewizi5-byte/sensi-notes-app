@@ -1,0 +1,15 @@
+{
+  "name": "sensi-notes-app",
+  "version": "1.0.0",
+  "description": "Notes application for Sensi Company cloud migration",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "engines": {
+    "node": ">=16.0.0"
+  }
+}
